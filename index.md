@@ -36,6 +36,19 @@ industry, to enable an interactive exchange on the future of robot
 learning, and best practices on transferring ideas to the real world of
 industrial competition.
 
+This workshop is the second edition of "New Horizons for Robot
+Learning", the first which was held at IROS 2020
+(<https://iros.ai-lab.science/>).
+
+
+## Confirmed Speakers
+
+* Angela Schoellig
+* David Ha
+* George Konidaris
+* Moritz Tenorth
+* Pieter Abbeel
+
 ## Organizers
 
 **Dr. Freek Stulp**
@@ -50,7 +63,7 @@ michael.spranger@gmail.com
 
 **Prof. Stephane Doncieux**
 ISIR, Sorbonne Université/CNRS, 4 place Jussieu, 75005 Paris, France
-stephane.doncieux\@sorbonne-universite.fr
+stephane.doncieux@sorbonne-universite.fr
 
 **Dr. Kim Listmann**
 Erbacher Str. 105c, 64287 Darmstadt, Germany
@@ -65,38 +78,26 @@ kim.listmann@gmail.com
 * Visual Learning, Deep Learning Methods
 * Big Data in Robotics and Automation, Data Sets for Robot Learning
 
-## Confirmed Speakers
-
-* Angela Schoellig
-* David Ha
-* George Konidaris
-* Moritz Tenorth
-* Pieter Abbeel
 
 ## Schedule
 
-+-----------------------+-----------------------+-----------------------+
+|-----------------------|-----------------------|-----------------------|
 | Time                  | Topic                 | Speakers              |
-+=======================+=======================+=======================+
+|-----------------------|-----------------------|-----------------------|
 | 00:00 -- 00:10        | Welcome               | Organizers            |
-+-----------------------+-----------------------+-----------------------+
+|-----------------------|-----------------------|-----------------------|
 | 12:40 -- 13:10        | Panel discussion:     | Speakers              |
 |                       | Where to use learning |                       |
 |                       | in the robot          | Moderator: Kim        |
 |                       | lifecycle and         | Listmann              |
 |                       | challenges for        |                       |
 |                       | innovation            |                       |
-+-----------------------+-----------------------+-----------------------+
+|-----------------------|-----------------------|-----------------------|
 | 13:10 -- 13:15        | Farewell & end of     | Organizers            |
 |                       | workshop              |                       |
-+-----------------------+-----------------------+-----------------------+
+|-----------------------|-----------------------|-----------------------|
 
 
-## Other Workshops
-
-This workshop is the second edition of "New Horizons for Robot
-Learning", the first which was held at IROS 2020
-(<https://iros.ai-lab.science/>).
 
 
 ## Support
