@@ -1,7 +1,5 @@
 # New Horizons for Robot Learning: Closing the Innovation Loop
 
-## Objectives
-
 Robots act in the real world. When deploying machine learning on robots,
 the continuous and dynamic nature of the physical world raises many
 challenges which are not encountered in purely digital domains such as
@@ -73,7 +71,7 @@ Bender GmbH
 * Big Data in Robotics and Automation, Data Sets for Robot Learning
 
 
-## Schedule
+## Format and schedule
 
 | Time                  | Topic                 | Speakers              |
 |-----------------------|-----------------------|-----------------------|
