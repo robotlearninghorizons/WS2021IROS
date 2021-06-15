@@ -52,22 +52,16 @@ Learning", the first which was held at IROS 2020
 ## Organizers
 
 **Dr. Freek Stulp**
-German Aerospace Center (DLR), Institute for Robotics and Mechatronics
-Münchener Straße 20, 82234 Oberpfaffenhofen-Weßling, Germany
-Freek.Stulp@dlr.de
-+49 8153 28-1848
+German Aerospace Center (DLR), Institute for Robotics and Mechatronics, Oberpfaffenhofen-Weßling, Germany
 
 **Michael Spranger**
 Sony AI, 1-7-8 Konan, Minato-ku, Tokyo, Japan
-michael.spranger@gmail.com
 
 **Prof. Stephane Doncieux**
-ISIR, Sorbonne Université/CNRS, 4 place Jussieu, 75005 Paris, France
-stephane.doncieux@sorbonne-universite.fr
+ISIR, Sorbonne Université/CNRS, Paris, France
 
 **Dr. Kim Listmann**
-Erbacher Str. 105c, 64287 Darmstadt, Germany
-kim.listmann@gmail.com
+Bender GmbH
 
 ### Topics of interest
 
@@ -81,21 +75,12 @@ kim.listmann@gmail.com
 
 ## Schedule
 
-|-----------------------|-----------------------|-----------------------|
 | Time                  | Topic                 | Speakers              |
 |-----------------------|-----------------------|-----------------------|
-| 00:00 -- 00:10        | Welcome               | Organizers            |
-|-----------------------|-----------------------|-----------------------|
-| 12:40 -- 13:10        | Panel discussion:     | Speakers              |
-|                       | Where to use learning |                       |
-|                       | in the robot          | Moderator: Kim        |
-|                       | lifecycle and         | Listmann              |
-|                       | challenges for        |                       |
-|                       | innovation            |                       |
-|-----------------------|-----------------------|-----------------------|
-| 13:10 -- 13:15        | Farewell & end of     | Organizers            |
-|                       | workshop              |                       |
-|-----------------------|-----------------------|-----------------------|
+| 00:00 -- 00:20        | Welcome               | Organizers            |
+| 00:20 -- 01:20        | Interviews            | Organizers, Speakers  |
+| 01:20 -- 01:50        | Panel discussion      | Speakers, Moderator: Kim Listmann | 
+| 01:50 -- 02:00        | Wrap-up and farewell  | Organizers            |
 
 
 
