@@ -41,11 +41,12 @@ Learning", the first which was held at IROS 2020
 
 ## Confirmed Speakers
 
-* Angela Schoellig
-* David Ha
-* George Konidaris
-* Moritz Tenorth
-* Pieter Abbeel
+* Angela Schoellig, Leader of the Dynamic Systems Lab and Associate Professor at the University of Toronto Institute for Aerospace Studies 
+* David Ha, Google Tokyo
+* George Konidaris, Director of the Intelligent Robot Lab and Assistant Professor at Brown University. Chief Roboticist at Realtime Robotics
+* Maya Cakmak, Director of the Human-Centered Robotics Lab, Assistant Professor at University of Washington.
+* Moritz Tenorth, CTO at Magazino GmbH.
+* Pieter Abbeel, Director of the Berkeley Robot Learning Lab and Professor at the University of California, Berkeley. Co-founder of covariant.ai.
 
 ## Organizers
 
@@ -61,17 +62,10 @@ ISIR, Sorbonne Université/CNRS, Paris, France
 **Dr. Kim Listmann**
 Bender GmbH
 
-### Topics of interest
-
-* Machine Learning for Robot Control, Model Learning for Control
-* Reinforcement Learning, Transfer Learning, Incremental Learning
-* Imitation Learning, Learning from Demonstration
-* Open-Ended Learning, Continual Learning
-* Visual Learning, Deep Learning Methods
-* Big Data in Robotics and Automation, Data Sets for Robot Learning
-
 
 ## Format and schedule
+
+The workshop is organized as a set of live interviews with global leaders in the field of machine learning and robotics. Questions are tailored to the main workshop topic, and will specifically focus on innovation, i.e. the transition from research ideas to their practical implementation as a product or service. The audience will be able to provide additional questions during the workshop. The insights from the interviews will form the basis for a panel discussion with all the invitees.
 
 | Time                  | Topic                 | Speakers              |
 |-----------------------|-----------------------|-----------------------|
@@ -79,8 +73,6 @@ Bender GmbH
 | 00:20 -- 01:20        | Interviews            | Organizers, Speakers  |
 | 01:20 -- 01:50        | Panel discussion      | Speakers, Moderator: Kim Listmann | 
 | 01:50 -- 02:00        | Wrap-up and farewell  | Organizers            |
-
-
 
 
 ## Support
