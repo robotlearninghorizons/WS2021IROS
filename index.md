@@ -16,23 +16,13 @@ question is to identify *when* learning algorithms could and should be
 used during a robot lifecycle, *how* they should be used, and *what
 for*.
 
-These objectives and questions have been central to selecting and
-inviting the speakers. They aim at real-world robotic applications of
-machine learning methods. Furthermore, many speakers are active both in
-academia and industry, and several whose scientific breakthroughs in
-machine learning have led to successful start-ups. All speakers will be
-asked to highlight the role of open-source software in turning their
-successful science into successful businesses. Finally, one presentation
-will specifically address how the choice of software license affects
-transfer of open-source machine learning software from academia to
-industry, and propose models for the management of intellectual property
-in cooperations between universities and companies in the field of
-machine learning.
-
 This workshop thus brings together roboticists from academia and
 industry, to enable an interactive exchange on the future of robot
 learning, and best practices on transferring ideas to the real world of
-industrial competition.
+industrial competition. The speakers at this workshop all aim at real-world robotic applications of
+machine learning methods. Furthermore, many speakers are active both in
+academia and industry.
+
 
 This workshop is the second edition of "New Horizons for Robot
 Learning", the first which was held at IROS 2020
