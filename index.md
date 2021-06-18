@@ -1,5 +1,3 @@
-# New Horizons for Robot Learning: Closing the Innovation Loop
-
 Robots act in the real world. When deploying machine learning on robots,
 the continuous and dynamic nature of the physical world raises many
 challenges which are not encountered in purely digital domains such as
@@ -29,7 +27,7 @@ Learning", the first which was held at IROS 2020
 (<https://iros.ai-lab.science/>).
 
 
-## Confirmed Speakers
+## Speakers
 
 * Angela Schoellig, Leader of the Dynamic Systems Lab and Associate Professor at the University of Toronto Institute for Aerospace Studies 
 * David Ha, Google Tokyo
