@@ -29,20 +29,19 @@ Learning", the first which was held at IROS 2020
 
 ## Speakers
 
-* Angela Schoellig, Leader of the Dynamic Systems Lab and Associate Professor at the University of Toronto Institute for Aerospace Studies 
-* David Ha, Google Tokyo
-* George Konidaris, Director of the Intelligent Robot Lab and Assistant Professor at Brown University. Chief Roboticist at Realtime Robotics
-* Maya Cakmak, Director of the Human-Centered Robotics Lab, Assistant Professor at University of Washington.
-* Moritz Tenorth, CTO at Magazino GmbH.
-* Pieter Abbeel, Director of the Berkeley Robot Learning Lab and Professor at the University of California, Berkeley. Co-founder of covariant.ai.
+* **Angela Schoellig**, Leader of the Dynamic Systems Lab and Associate Professor at the University of Toronto Institute for Aerospace Studies 
+* **David Ha, Google Tokyo
+* **George Konidaris**, Director of the Intelligent Robot Lab and Assistant Professor at Brown University. Chief Roboticist at Realtime Robotics
+* **Maya Cakmak**, Director of the Human-Centered Robotics Lab, Assistant Professor at University of Washington.
+* **Moritz Tenorth**, CTO at Magazino GmbH.
+* **Pieter Abbeel**, Director of the Berkeley Robot Learning Lab and Professor at the University of California, Berkeley. Co-founder of covariant.ai.
 
 ## Organizers
 
 **Dr. Freek Stulp**
 German Aerospace Center (DLR), Institute for Robotics and Mechatronics, Oberpfaffenhofen-Weßling, Germany
 
-**Michael Spranger**
-Sony AI, 1-7-8 Konan, Minato-ku, Tokyo, Japan
+**Dr. Michael Spranger**, Sony AI, Tokyo, Japan
 
 **Prof. Stephane Doncieux**
 ISIR, Sorbonne Université/CNRS, Paris, France
