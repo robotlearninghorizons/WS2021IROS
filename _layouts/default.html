@@ -6,7 +6,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-
+    
+    <!-- Custom CSS -->
+    <style>
+      /* background image for the header */
+      #header_wrap{
+	      background-image: url("banner.png");
+	      background-size: cover;
+      }
+    </style>
+    
 {% seo %}
   </head>
 
@@ -14,12 +23,17 @@
 
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
-      <!--img style="width:100%" src="banner.png"-->    
+      <!--  
         <header class="inner">
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
         </header>
+      -->    
     </div>
+    
+    <!--  Keep the title for search engines -->
+    <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
+    <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
