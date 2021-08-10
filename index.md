@@ -54,12 +54,17 @@ Bender GmbH
 
 The workshop is organized as a set of live interviews with global leaders in the field of machine learning and robotics. Questions are tailored to the main workshop topic, and will specifically focus on innovation, i.e. the transition from research ideas to their practical implementation as a product or service. The audience will be able to provide additional questions during the workshop. The insights from the interviews will form the basis for a panel discussion with all the invitees.
 
-| Time                  | Topic                 | Speakers              |
-|-----------------------|-----------------------|-----------------------|
-| 00:00 -- 00:20        | Welcome               | Organizers            |
-| 00:20 -- 01:20        | Interviews            | Organizers, Speakers  |
-| 01:20 -- 01:50        | Panel discussion      | Speakers, Moderator: Kim Listmann | 
-| 01:50 -- 02:00        | Wrap-up and farewell  | Organizers            |
+| Time (CET)            |                       | 
+|-----------------------|-----------------------|
+| 16:10 -- 16:30        | Welcome               | 
+| 16:30 -- 16:40        | Q&A Moritz Tenorth    | 
+| 16:40 -- 16:50        | Q&A David Ha          | 
+| 16:50 -- 17:00        | Q&A Maya Cakmak       | 
+| 17:00 -- 17:10        | Q&A George Konidaris  | 
+| 17:10 -- 17:20        | Q&A Angela Schoellig  | 
+| 17:20 -- 17:30        | Q&A Pieter Abbeel     | 
+| 17:30 -- 18:00        | Panel discussion. Moderator: Kim Listmann  |   
+| 18:00 -- 18:10        | Wrap-up and farewell  |
 
 
 ## Support
