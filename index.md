@@ -1,3 +1,7 @@
+A workshop on "everything you've always wanted to ask about founding a start-up after your PhD, but were to afraid to ask". These question will be asked at this workshop!
+
+## Introduction
+
 Robots act in the real world. When deploying machine learning on robots,
 the continuous and dynamic nature of the physical world raises many
 challenges which are not encountered in purely digital domains such as
