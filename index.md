@@ -32,7 +32,6 @@ Learning", the first which was held at IROS 2020
 * **Prof. Angela Schoellig**, Leader of the Dynamic Systems Lab and Associate Professor at the University of Toronto Institute for Aerospace Studies 
 * **David Ha**, Google Tokyo
 * **Prof. George Konidaris**, Director of the Intelligent Robot Lab and Assistant Professor at Brown University. Chief Roboticist at Realtime Robotics
-* **Prof. Maya Cakmak**, Director of the Human-Centered Robotics Lab, Assistant Professor at University of Washington.
 * **Dr. Moritz Tenorth**, CTO at Magazino GmbH.
 * **Prof. Pieter Abbeel**, Director of the Berkeley Robot Learning Lab and Professor at the University of California, Berkeley. Co-founder of covariant.ai.
 
@@ -56,14 +55,13 @@ The workshop is organized as a set of live interviews with global leaders in the
 
 | Time (CET)            |                       | 
 |-----------------------|-----------------------|
-| 16:10 -- 16:30        | Welcome               | 
-| 16:30 -- 16:40        | Q&A Moritz Tenorth    | 
-| 16:40 -- 16:50        | Q&A David Ha          | 
-| 16:50 -- 17:00        | Q&A Maya Cakmak       | 
-| 17:00 -- 17:10        | Q&A George Konidaris  | 
-| 17:10 -- 17:20        | Q&A Angela Schoellig  | 
-| 17:20 -- 17:30        | Q&A Pieter Abbeel     | 
-| 17:30 -- 18:00        | Panel discussion. Moderator: Kim Listmann  |   
+| 16:10 -- 16:20        | Introduction          | 
+| 16:20 -- 16:35        | Q&A Moritz Tenorth    | 
+| 16:35 -- 16:50        | Q&A David Ha          | 
+| 16:50 -- 17:05        | Q&A George Konidaris  | 
+| 17:05 -- 17:20        | Q&A Angela Schoellig  | 
+| 17:20 -- 17:35        | Q&A Pieter Abbeel     | 
+| 17:35 -- 18:00        | Panel discussion. Moderator: Kim Listmann  |   
 | 18:00 -- 18:10        | Wrap-up and farewell  |
 
 
