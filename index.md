@@ -1,4 +1,4 @@
-A workshop on "everything you've always wanted to ask about founding a start-up after your PhD, but were to afraid to ask". These question will be asked at this workshop!
+**A workshop on *"everything you've always wanted to ask about founding a start-up after your PhD, but were to afraid to ask"*. These question will be asked at this workshop!**
 
 ## Introduction
 
