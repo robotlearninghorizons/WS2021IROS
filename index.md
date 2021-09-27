@@ -60,13 +60,12 @@ The workshop is organized as a set of live interviews with global leaders in the
 | Time (CET)            |                       | 
 |-----------------------|-----------------------|
 | 16:10 -- 16:20        | Introduction          | 
-| 16:20 -- 16:35        | Q&A Moritz Tenorth    | 
-| 16:35 -- 16:50        | Q&A David Ha          | 
-| 16:50 -- 17:05        | Q&A George Konidaris  | 
-| 17:05 -- 17:20        | Q&A Angela Schoellig  | 
-| 17:20 -- 17:35        | Q&A Pieter Abbeel     | 
-| 17:35 -- 18:00        | Panel discussion. Moderator: Kim Listmann  |   
-| 18:00 -- 18:10        | Wrap-up and farewell  |
+| 16:20 -- 16:40        | Q&A Moritz Tenorth    | 
+| 16:40 -- 17:00        | Q&A David Ha          | 
+| 17:00 -- 17:20        | Q&A George Konidaris  | 
+| 17:20 -- 17:40        | Q&A Pieter Abbeel     | 
+| 17:40 -- 18:05        | Panel discussion. Moderator: Kim Listmann  |   
+| 18:05 -- 18:10        | Wrap-up and farewell  |
 
 
 ## Support
