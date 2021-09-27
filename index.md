@@ -1,5 +1,11 @@
 **A workshop on *"everything you've always wanted to ask about founding a start-up after your PhD, but were to afraid to ask"*. These question will be asked at this workshop!**
 
+## When & Where
+
+**Date:** Friday 01.10.2021, 16:10-18:10, CET
+
+**Location:** IROS, Hall 8, https://iros2021.gcon.me/user/hall/8  (If this link does not work, please find us in hall 8 on gcon: https://iros2021.gcon.me)
+
 ## Introduction
 
 Robots act in the real world. When deploying machine learning on robots,
@@ -33,7 +39,6 @@ Learning", the first which was held at IROS 2020
 
 ## Speakers
 
-* **Prof. Angela Schoellig**, Leader of the Dynamic Systems Lab and Associate Professor at the University of Toronto Institute for Aerospace Studies 
 * **David Ha**, Google Tokyo
 * **Prof. George Konidaris**, Director of the Intelligent Robot Lab and Assistant Professor at Brown University. Chief Roboticist at Realtime Robotics
 * **Dr. Moritz Tenorth**, CTO at Magazino GmbH.
